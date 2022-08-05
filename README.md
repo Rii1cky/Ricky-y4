@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center" style"border-radius:15px">
+  <img src="https://i.postimg.cc/4NSxkRwG/static-1.png">
+</div>
 
-<!--
-**Ricky-y4/Ricky-y4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="center">Hi, I'm Ricky! And I'm a Developer!</div>   
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [**Best Music Bot**](https://dsc.gg/bestmusicbot)
+  
+
+- 🌱 I’m currently coding in **Javascript**.  
+  
+<br/>
+  
+***
+
+## [Best Music Bot](https://dsc.gg/bestmusicbot) | [Dashboard](https://bestmusicbot.rxcky.repl.co)
+<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/846827140192403496/widget.png?style=banner2"></a>
+
+***
+
+## SUPPORT ME
+
+> You can always Support me by inviting my **own Discord Bot**
+
+[![Best Music Bot](https://i.postimg.cc/BvgS6NjC/image.png)](https://dsc.gg/bestmusicbot)
+
+# My Repositories
+
+> Go and check my repositories on my github profile!
