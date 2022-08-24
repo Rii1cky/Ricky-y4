@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I'm Ricky! And I'm a Developer!</div>   
+# <div align="center">Hi there, I'm Ricky!</div>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricky-y4&label=Profile%20views&color=0e75b6&style=flat" alt="ricky-y4" /> </p>
 
